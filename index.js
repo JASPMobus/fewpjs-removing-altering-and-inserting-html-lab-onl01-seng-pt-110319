@@ -1,4 +1,4 @@
 // Write your code here!
 document.querySelector('main#main').remove()
 
-const newHeader = createElement('h1#victory')
+let newHeader = createElement('h1#victory')
