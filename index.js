@@ -3,4 +3,4 @@ document.querySelector('main#main').remove()
 
 let newHeader = document.createElement('h1')
 newHeader.id = 'victory'
-newHeader.body = `James is the champion`
+newHeader.innerHTML = `James is the champion`
